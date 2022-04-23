@@ -1,4 +1,7 @@
 # Movies-ETL-
+
+Extract, transform and load data using python, pandas, and SQL
+
 # purpose
 
 The project aims at creating an ETL pipeline that takes raw data and transforms and loads the data into existing tables. 
